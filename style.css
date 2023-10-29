@@ -16,7 +16,7 @@
 
 #Title{
     text-align: center;
-    font-family: 'Arvo';
+    font-family: 'Oswald';
     font-size: 25px;
     color:white;
 }
@@ -27,6 +27,7 @@ body{
     margin-left: 30px;
     margin-left: 30px;
     position:static;
+        font-family: 'Inconsolata', monospace;
 }
 
 #DescDiv{
@@ -44,6 +45,7 @@ body{
     font-family: 'Arvo';
     font-size: 18px;
     color:white;
+        font-family: 'Inconsolata', monospace;
 }
 
 #logo{
@@ -71,6 +73,7 @@ body{
 #NotLogo{
     position:relative;
     right:10%;
+        font-family: 'Inconsolata', monospace;
 }
 
 #Categories{
@@ -81,11 +84,13 @@ body{
     left:-30%;
     width:82px;
     float: right;
+        font-family: 'Inconsolata', monospace;
 }
+
 .ButtonC{
     color:White;
     background-color: rgb(9, 9, 195);
-    font-family: 'Arvo';
+    font-family: 'Inconsolata', monospace;
     border-style:solid;
     border-width:2px;
     border-color:black;
